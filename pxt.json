@@ -1,5 +1,5 @@
 {
-    "name": "HARD GAME | mario remake",
+    "name": "HARD GAME | mario remake #2",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -12,7 +12,8 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
